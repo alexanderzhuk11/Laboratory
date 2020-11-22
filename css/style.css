@@ -1,0 +1,11 @@
+.row {
+    margin-bottom: 15px;
+}
+.btn-outline-success {
+    color: #1ba9bf !important;
+    background-color: transparent !important;
+    border: 2px solid #1ba9bf !important;
+}
+.mb-5 flex-center{
+    height: 10px;
+}
